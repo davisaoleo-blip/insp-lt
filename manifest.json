@@ -1,0 +1,25 @@
+{
+  "name": "INSP-LT PRO — Inspeção de Linhas RGE",
+  "short_name": "INSP-LT",
+  "description": "Aplicativo de inspeção de linhas de transmissão · DRTC Santa Maria · RGE",
+  "start_url": "./inspecao-lt-v4.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1b2a",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
